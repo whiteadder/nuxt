@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "nuxt-blog-a36a5",
+    "nuxt test": "nuxt-blog-a36a5"
+  }
+}
